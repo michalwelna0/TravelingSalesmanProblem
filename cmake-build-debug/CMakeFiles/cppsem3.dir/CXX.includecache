@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/MWelna/cppsem3/salesman.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+map
+-
+string
+-
+functional
+-
+climits
+-
+salesman.hpp
+C:/MWelna/cppsem3/salesman.hpp
+
+C:/MWelna/cppsem3/salesman.hpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+map
+-
+string
+-
+functional
+-
+climits
+-
+
