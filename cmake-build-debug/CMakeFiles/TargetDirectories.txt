@@ -1,3 +1,3 @@
-C:/MWelna/cppsem3/cmake-build-debug/CMakeFiles/cppsem3.dir
-C:/MWelna/cppsem3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/MWelna/cppsem3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/TravelingSalesmanProblem/cmake-build-debug/CMakeFiles/cppsem3.dir
+C:/TravelingSalesmanProblem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/TravelingSalesmanProblem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

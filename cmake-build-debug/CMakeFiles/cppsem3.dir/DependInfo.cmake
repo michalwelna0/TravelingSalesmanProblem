@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/MWelna/cppsem3/main.cpp" "C:/MWelna/cppsem3/cmake-build-debug/CMakeFiles/cppsem3.dir/main.cpp.obj"
-  "C:/MWelna/cppsem3/salesman.cpp" "C:/MWelna/cppsem3/cmake-build-debug/CMakeFiles/cppsem3.dir/salesman.cpp.obj"
+  "C:/TravelingSalesmanProblem/main.cpp" "C:/TravelingSalesmanProblem/cmake-build-debug/CMakeFiles/cppsem3.dir/main.cpp.obj"
+  "C:/TravelingSalesmanProblem/salesman.cpp" "C:/TravelingSalesmanProblem/cmake-build-debug/CMakeFiles/cppsem3.dir/salesman.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

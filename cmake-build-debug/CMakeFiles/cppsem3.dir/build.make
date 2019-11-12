@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\MWelna\cppsem3
+CMAKE_SOURCE_DIR = C:\TravelingSalesmanProblem
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\MWelna\cppsem3\cmake-build-debug
+CMAKE_BINARY_DIR = C:\TravelingSalesmanProblem\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/cppsem3.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/cppsem3.dir/flags.make
 
 CMakeFiles/cppsem3.dir/salesman.cpp.obj: CMakeFiles/cppsem3.dir/flags.make
 CMakeFiles/cppsem3.dir/salesman.cpp.obj: ../salesman.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\MWelna\cppsem3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppsem3.dir/salesman.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cppsem3.dir\salesman.cpp.obj -c C:\MWelna\cppsem3\salesman.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\TravelingSalesmanProblem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cppsem3.dir/salesman.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cppsem3.dir\salesman.cpp.obj -c C:\TravelingSalesmanProblem\salesman.cpp
 
 CMakeFiles/cppsem3.dir/salesman.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppsem3.dir/salesman.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\MWelna\cppsem3\salesman.cpp > CMakeFiles\cppsem3.dir\salesman.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\TravelingSalesmanProblem\salesman.cpp > CMakeFiles\cppsem3.dir\salesman.cpp.i
 
 CMakeFiles/cppsem3.dir/salesman.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppsem3.dir/salesman.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\MWelna\cppsem3\salesman.cpp -o CMakeFiles\cppsem3.dir\salesman.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\TravelingSalesmanProblem\salesman.cpp -o CMakeFiles\cppsem3.dir\salesman.cpp.s
 
 CMakeFiles/cppsem3.dir/main.cpp.obj: CMakeFiles/cppsem3.dir/flags.make
 CMakeFiles/cppsem3.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\MWelna\cppsem3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cppsem3.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cppsem3.dir\main.cpp.obj -c C:\MWelna\cppsem3\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\TravelingSalesmanProblem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cppsem3.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cppsem3.dir\main.cpp.obj -c C:\TravelingSalesmanProblem\main.cpp
 
 CMakeFiles/cppsem3.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cppsem3.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\MWelna\cppsem3\main.cpp > CMakeFiles\cppsem3.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\TravelingSalesmanProblem\main.cpp > CMakeFiles\cppsem3.dir\main.cpp.i
 
 CMakeFiles/cppsem3.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cppsem3.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\MWelna\cppsem3\main.cpp -o CMakeFiles\cppsem3.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\TravelingSalesmanProblem\main.cpp -o CMakeFiles\cppsem3.dir\main.cpp.s
 
 # Object files for target cppsem3
 cppsem3_OBJECTS = \
@@ -96,7 +96,7 @@ cppsem3.exe: CMakeFiles/cppsem3.dir/build.make
 cppsem3.exe: CMakeFiles/cppsem3.dir/linklibs.rsp
 cppsem3.exe: CMakeFiles/cppsem3.dir/objects1.rsp
 cppsem3.exe: CMakeFiles/cppsem3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\MWelna\cppsem3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cppsem3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\TravelingSalesmanProblem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable cppsem3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cppsem3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/cppsem3.dir/clean:
 .PHONY : CMakeFiles/cppsem3.dir/clean
 
 CMakeFiles/cppsem3.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\MWelna\cppsem3 C:\MWelna\cppsem3 C:\MWelna\cppsem3\cmake-build-debug C:\MWelna\cppsem3\cmake-build-debug C:\MWelna\cppsem3\cmake-build-debug\CMakeFiles\cppsem3.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\TravelingSalesmanProblem C:\TravelingSalesmanProblem C:\TravelingSalesmanProblem\cmake-build-debug C:\TravelingSalesmanProblem\cmake-build-debug C:\TravelingSalesmanProblem\cmake-build-debug\CMakeFiles\cppsem3.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/cppsem3.dir/depend
 
